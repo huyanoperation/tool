@@ -1,0 +1,11 @@
+{     
+"skillList":     
+ {    
+  "key1":   
+   {  
+    "id":1,
+    "attack_frame":44,
+    "damage":95,
+    "skillmp":150,
+    "improveskilllevelExp":1500,
+
